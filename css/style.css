@@ -1,0 +1,137 @@
+a{
+    text-decoration: none !important;
+    color: black;
+}
+
+.head{
+    width: 100%;
+    height: 15%;
+}
+
+.head_photo{
+    text-align: center;
+}
+
+.head_index{
+    margin-top: 1%;
+    text-align: center;
+    border-style: solid;
+    border-radius: 1px;
+    border-left: 0px;
+    border-right: 0px;
+    border-color: #8A8070;
+    padding: 0.5%;
+    font-size: large;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a.head_index_link{
+    padding: 0.75%;
+    color: black;
+}
+
+a.head_index_link:hover{
+    color: #7ABA96;
+}
+
+.cuerpo{
+    float: left;
+    width: 80%;
+    background-color: white;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.about_me{
+    float: left;
+    margin-right: 2%;
+    width: 18%;
+    text-align: center;
+}
+
+.about_me_titol{
+    font-weight: 900;
+    margin-bottom: 5%;
+    padding-top: 5%;
+}
+
+.about_me_text{
+    text-align: left;
+    padding-left: 5%;
+    padding-bottom: 5%;
+    color: gray;
+}
+
+.sub_titol{
+    font-weight: 900;
+}
+
+.sub_blog{
+    margin-top: 2%;
+    padding: 5%;
+    padding-bottom: 0%;
+    background-color: rgb(190, 190, 190);
+}
+
+.sub_apuntate{
+    background-color: #7ABA96;
+    font-weight: 900;
+    padding: 2%;
+}
+
+.receta{
+    float: right;
+    width: 35%;
+    margin: 5%;
+    margin-top: 0%;
+    margin-right: 0%;
+}
+
+img.receta_img{
+    text-align: center;
+    width: 100%;
+}
+
+.receta_titol{
+    width: 94%;
+    text-align: center;
+    font-weight: 800;
+    padding: 3%;
+    font-size: x-large;
+}
+
+.receta_data{
+    width: 100%;
+    text-align: center;
+    border-left: 0px;
+    border-right: 0px;
+    border-color: #7ABA96;
+    border-style: solid;
+}
+
+.receta_text{
+    padding-top: 2%;
+}
+
+.footer{
+    background-color: black;
+    text-align:center;
+}
+
+a.footer_link{
+    padding: 3%;
+    padding-left: 1%;
+    padding-right: 1%;
+    color:white;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a.footer_link:hover{
+    color: #7ABA96;
+}
