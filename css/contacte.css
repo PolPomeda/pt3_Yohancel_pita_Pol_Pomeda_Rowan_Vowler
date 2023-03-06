@@ -1,0 +1,148 @@
+
+a{
+    text-decoration: none !important;
+    color: black;
+}
+
+.head{
+    width: 100%;
+    height: 15%;
+}
+
+.head_photo{
+    text-align: center;
+}
+
+.head_index{
+    margin-top: 1%;
+    text-align: center;
+    border-style: solid;
+    border-radius: 1px;
+    border-left: 0px;
+    border-right: 0px;
+    border-color: #8A8070;
+    padding: 0.5%;
+    font-size: large;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a.head_index_link{
+    padding: 0.75%;
+    color: black;
+}
+
+a.head_index_link:hover{
+    color: #7ABA96;
+}
+
+.cuerpo{
+    width: 100%;
+    background-color: white;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+}
+
+.footer{
+    background-color: black;
+    text-align:center;
+    float: left;
+    width: 100%;
+    margin-top: 2%;
+}
+
+a.footer_link{
+    padding: 3%;
+    padding-left: 1%;
+    padding-right: 1%;
+    color:white;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a.footer_link:hover{
+    color: #7ABA96;
+}
+.formulari{
+    width: 60%;
+    padding: 2.5%;
+    align-self: center;
+    align-items: center;
+    float: center;
+}
+.name{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 75px;
+    box-sizing: border-box;
+}
+
+input[name="first_name"]{
+    width: 150px;
+    height: 20px;
+}
+
+input[name="l_name"]{
+    width: 150px;
+    height: 20px; 
+}
+
+input[name="mail"]{
+    width: 200px;
+    height: 20px;
+}
+
+input[name="comment_input"]{
+    width: 1000px;
+    height: 20px;
+}
+.last_name{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 75px;
+    box-sizing: border-box;
+}
+.email{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 75px;
+    box-sizing: border-box;
+}
+.comment{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 75px;
+    box-sizing: border-box;
+}
+
+div.name, div.last_name, div.email, div.comment {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+.boton_enviar{
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 120px;
+    cursor: pointer;
+}

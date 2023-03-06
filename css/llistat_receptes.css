@@ -1,0 +1,137 @@
+a{
+    text-decoration: none !important;
+    color: black;
+}
+
+.head{
+    width: 100%;
+    height: 15%;
+}
+
+.head_photo{
+    text-align: center;
+}
+
+.head_index{
+    margin-top: 1%;
+    text-align: center;
+    border-style: solid;
+    border-radius: 1px;
+    border-left: 0px;
+    border-right: 0px;
+    border-color: #8A8070;
+    padding: 0.5%;
+    font-size: large;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a.head_index_link{
+    padding: 0.75%;
+    color: black;
+}
+
+a.head_index_link:hover{
+    color: #7ABA96;
+}
+
+.cuerpo{
+    width: 100%;
+    background-color: white;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: center;
+    text-align: center;
+}
+
+.receptes_titol{
+    padding-top: 0%;
+    padding-bottom: 0%;
+}
+
+.receta{
+    float: left;
+    padding-left: 1%;
+    padding-right: 1%;
+    width: 31%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+img.receta_img{
+    text-align: center;
+    width: 100%;
+    height: 400px;
+}
+
+.receta_titol{
+    width: 94%;
+    text-align: center;
+    font-weight: 800;
+    padding: 3%;
+    font-size: x-large;
+}
+
+.receta_data{
+    width: 100%;
+    text-align: center;
+    border-left: 0px;
+    border-right: 0px;
+    border-color: #7ABA96;
+    border-style: solid;
+}
+
+.receta_text{
+    padding-top: 2%;
+}
+
+.recepta_dificultat{
+    width: 100%;
+    text-align: center;
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 0px;
+    border-color: #7ABA96;
+    border-style: solid;
+}
+
+.pagination {
+    display: inline-block;
+}
+  
+.pagination a {
+color: black;
+float: left;
+padding: 8px 16px;
+text-decoration: none;
+}
+
+.pagination a.active {
+background-color: #4CAF50;
+color: white;
+}
+
+.pagination a:hover:not(.active) {background-color: #ddd;}
+
+.footer{
+    background-color: black;
+    text-align:center;
+    float: left;
+    width: 100%;
+    margin-top: 2%;
+}
+
+a.footer_link{
+    padding: 3%;
+    padding-left: 1%;
+    padding-right: 1%;
+    color:white;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a.footer_link:hover{
+    color: #7ABA96;
+}
