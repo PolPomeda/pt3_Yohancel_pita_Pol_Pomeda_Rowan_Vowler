@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="template.xslt" type="text/xsl"?>
+<recetas>
+    <receta>
+        <link href="./R1.html" />
+        <foto src="../images/R1_arroz_blanco_con_pollo.jpg" />
+        <nom>Arròs blanc amb pollastre</nom>
+        <temps>30 min.</temps>
+        <dificultat>Dificultat: Fàcil</dificultat>
+        <text>L'arròs blanc amb pollastre és un plat que es prepara de seguida i que et pot venir molt bé per quan vols menjar alguna cosa lleugera, estàs a dieta o et fa mal la panxa. T'asseurà genial!</text>
+    </receta>
+    <receta>
+        <foto src="../images/R2_poella.jpg"/>
+        <nom>Poella</nom>
+        <temps>1 hora</temps>
+        <dificultat>Dificultat: Mitjana</dificultat>
+        <text>Aquest arròs amb pollastre o paella de pollastre és una recepta tradicional, un bàsic dins dels arrossos, el secret del qual està en l'elaboració d'un bon sofregit i en utilitzar brou de pollastre casolà.</text>
+    </receta>
+    <receta>
+    <foto src="../images/R3_pollo_con_arroz.jpg"/>
+        <nom>Pollastre amb arròs</nom>
+        <temps>20 min</temps>
+        <dificultat>Dificultat: Mitjana</dificultat>
+        <text>Hi ha plats que són veritables records de la teva infància, menjars que han aconseguit fer un lloc al teu receptari d'imprescindibles i es converteixen en una petita celebració cada vegada que les cuines, com l'arròs amb pollastre. Per llepar-se els dits!</text>
+    </receta>
+    <receta>
+        <foto src="../images/R4_arroz_con_pollo_asado_mercadona.jpg"/>
+        <nom>Arròs amb pollastre asat Mercadona</nom>
+        <temps>6 min</temps>
+        <dificultat>Dificultat: Bebé</dificultat>
+        <text>Mercadoona, Mercadona! Patrocinat pel mercat Mercadona, ens han pagat molts calers, aixì que aneu a comprar a Mercadona si us plau.</text>
+    </receta>
+    <receta>
+        <foto src="../images/R5_arroz_con_pollo_desmenuzado.jpg"/>
+        <nom>Arròs amb pollastre esmicolat</nom>
+        <temps>40 min</temps>
+        <dificultat>Dificultat: Mitjana</dificultat>
+        <text>D'origen espanyol i llatinoamericà que alhora varia als seus toppings depenent del país, l'arròs amb pollastre és una recepta casolana que rendeix i arriba per a diverses porcions alhora, perfecta per rebre amics.</text>
+    </receta>
+    <receta>
+        <foto src="../images/R6_arroz_con_pollo_rebozado.jpg"/>
+        <nom>Arròs amb pollastre arrebossat</nom>
+        <temps>20 min</temps>
+        <dificultat>Dificultat: Fàcil</dificultat>
+        <text>Per dinar avui us proposem un senzill plat d'arròs amb pollastre amb una vistosa presentació i un sabor que agradarà a tothom. Un plat ben fàcil de preparar però amb molt bon sabor que t'assagurem serà perfecte per un mitjdia cansat</text>
+    </receta>
+    <receta>
+        <foto src="../images/R7_arroz_con_pollo_y_verdura.jpg"/>
+        <nom>Arròs amb pollastre i verdura</nom>
+        <temps>35 min</temps>
+        <dificultat>Dificultat: Fàcil</dificultat>
+        <text>L'arròs amb pollastre i verdures tradicional és una de les formes més populars de preparar aquest cereal. I també més saludable. És una recepta de cuina molt típica d´Espanya i de tota Amèrica llatina. Compta amb totes les proteïnes del pollastre i les vitamines de la verdura.</text>
+    </receta>
+    <receta>
+        <foto src="../images/R8_arroz_con_remolacha_y_pollo.jpg"/>
+        <nom>Arròs amb pollastre i remolatxa</nom>
+        <temps>40 min</temps>
+        <dificultat>Dificultat: Mitjana</dificultat>
+        <text>De les mil maneres que cal cuinar l'arròs, avui ens posem fil a l'agulla amb una de les que tenen una presentació més sorprenent: arròs cremós de pollastre i remolatxa. L'increïble d'aquesta recepta és, a més del sabor, el color que adquireix gràcies a la remolatxa.</text>
+    </receta>
+    <receta>
+        <foto src="../images/R9_arroz_tres_delicias.jpg"/>
+        <nom>Arròs amb tres delicies</nom>
+        <temps>20 min</temps>
+        <dificultat>Dificultat: Mitjana</dificultat>
+        <text>Recordo que des de ben petit, quan anava a dinar a un dels restaurants xinesos amb els meus oncles, el pollastre a la llimona, el pollastre amb ametlles o el porc agredolç. Si d'aquella cuina oriental per a occidentals n'hi havia un plat que m'agradava per sobre de tots, aquesta era la recepta de l'arròs tres delícies.</text>
+    </receta>
+    <receta>
+        <foto src="../images/R10_arroz_con_pollo_peruano.jpg"/>
+        <nom>Arròs amb pollastre peruà</nom>
+        <temps>1 hora</temps>
+        <dificultat>Dificultat: Dificil</dificultat>
+        <text>Aquest és un dels plats favorits a les taules peruanes, ja sigui amb ànec –tradicional al nord del Perú- o amb pollastre. És deliciós i té moltes variacions. L'arròs pot fer-se granat o com un risotto i, encara que és verd i té força coriandre el seu sabor és força subtil. Poden afegir altres vegetals, si volen.</text>
+    </receta>
+    <receta>
+        <foto src="../images/R11_sopa_de_pollo_con_arroz.jpg"/>
+        <nom>Sopa de pollastre amb arròs</nom>
+        <temps>50 min</temps>
+        <dificultat>Dificultat: Dificil</dificultat>
+        <text>La sopa de pollastre amb arròs és tot un clàssic, un plat complet i perfecte per a aquelles ocasions en què necessitem augmentar la nostra força o lluitar contra el fred de l'hivern, calenta i reconfortant</text>
+    </receta>
+    <receta>
+        <foto src="../images/R12_arroz_con_pollo_al_curry.jpg"/>
+        <nom>Arròs amb pollastre al curry</nom>
+        <temps>30 min</temps>
+        <dificultat>Dificultat: Fàcil</dificultat>
+        <text>Dins la gamma dels arrossos, l'arròs amb pollastre és un plat clàssic. En aquesta oportunitat, presentem la variant amb curri, una barreja d´espècies asiàtiques amb un sabor exòtic i únic. L'arròs amb pollastre al curri és un plat fàcil i ràpid per gaudir-ne en qualsevol moment.</text>
+    </receta>
+    <receta>
+        <foto src="../images/R13_arroz_con_pollo_al_limon.jpg"/>
+        <nom>Arròs amb pollastre a la llimona</nom>
+        <temps>45 min</temps>
+        <dificultat>Dificultat: Fàcil</dificultat>
+        <text>Si busques un plat complet, sa i de sabors mediterranis, no deixis de tastar aquest pollastre a la llimona amb arròs basmati. La combinació de salses i espècies que acompanyen el pollastre es veuen compensades per un arròs de gust suau en una recepta el gust de la qual et sorprendrà.</text>
+    </receta>
+    <receta>
+        <foto src="../images/R14_pollo_tikka_masala_con_arroz.png"/>
+        <nom>Tikka Masala amb arròs</nom>
+        <temps>50 min</temps>
+        <dificultat>Dificultat: Mitjana</dificultat>
+        <text>Vull ensenyar-vos a preparar un deliciós pollastre tikka masala, la recepta de pollastre al curri més popular al món, juntament amb el pollastre tandoori. Amb un marinat previ amb iogurt i espècies i una cocció posterior en llet de coco i una pasta aromàtica.</text>
+    </receta>
+    <receta>
+        <foto src="../images/R15_pollo_relleno_de_arroz.jpg"/>
+        <nom>Pollastre fàrcit d'arròs</nom>
+        <temps>1h 30 min</temps>
+        <dificultat>Dificultat: Difícil</dificultat>
+        <text>Riquíssima recepta de pollastre farcit d'arròs, que sorprendrà especialment pel bon sabor que agafarà l'arròs gràcies als sucs que deixa anar la carn. Riquíssima recepta de pollastre farcit d'arròs, que sorprendrà especialment pel bon sabor que agafarà l'arròs gràcies als sucs que deixa anar la carn.</text>
+    </receta>
+        <receta>
+        <link href="./R1.html" />
+        <foto src="../images/R1_arroz_blanco_con_pollo.jpg" />
+        <nom>Arròs blanc amb pollastre</nom>
+        <temps>30 min.</temps>
+        <dificultat>Dificultat: Fàcil</dificultat>
+        <text>L'arròs blanc amb pollastre és un plat que es prepara de seguida i que et pot venir molt bé per quan vols menjar alguna cosa lleugera, estàs a dieta o et fa mal la panxa. T'asseurà genial!</text>
+    </receta>
+    <receta>
+        <foto src="../images/R2_poella.jpg"/>
+        <nom>Poella</nom>
+        <temps>1 hora</temps>
+        <dificultat>Dificultat: Mitjana</dificultat>
+        <text>Aquest arròs amb pollastre o paella de pollastre és una recepta tradicional, un bàsic dins dels arrossos, el secret del qual està en l'elaboració d'un bon sofregit i en utilitzar brou de pollastre casolà.</text>
+    </receta>
+    <receta>
+    <foto src="../images/R3_pollo_con_arroz.jpg"/>
+        <nom>Pollastre amb arròs</nom>
+        <temps>20 min</temps>
+        <dificultat>Dificultat: Mitjana</dificultat>
+        <text>Hi ha plats que són veritables records de la teva infància, menjars que han aconseguit fer un lloc al teu receptari d'imprescindibles i es converteixen en una petita celebració cada vegada que les cuines, com l'arròs amb pollastre. Per llepar-se els dits!</text>
+    </receta>
+    <receta>
+        <foto src="../images/R4_arroz_con_pollo_asado_mercadona.jpg"/>
+        <nom>Arròs amb pollastre asat Mercadona</nom>
+        <temps>6 min</temps>
+        <dificultat>Dificultat: Bebé</dificultat>
+        <text>Mercadoona, Mercadona! Patrocinat pel mercat Mercadona, ens han pagat molts calers, aixì que aneu a comprar a Mercadona si us plau.</text>
+    </receta>
+    <receta>
+        <foto src="../images/R5_arroz_con_pollo_desmenuzado.jpg"/>
+        <nom>Arròs amb pollastre esmicolat</nom>
+        <temps>40 min</temps>
+        <dificultat>Dificultat: Mitjana</dificultat>
+        <text>D'origen espanyol i llatinoamericà que alhora varia als seus toppings depenent del país, l'arròs amb pollastre és una recepta casolana que rendeix i arriba per a diverses porcions alhora, perfecta per rebre amics.</text>
+    </receta>
+    <receta>
+        <foto src="../images/R6_arroz_con_pollo_rebozado.jpg"/>
+        <nom>Arròs amb pollastre arrebossat</nom>
+        <temps>20 min</temps>
+        <dificultat>Dificultat: Fàcil</dificultat>
+        <text>Per dinar avui us proposem un senzill plat d'arròs amb pollastre amb una vistosa presentació i un sabor que agradarà a tothom. Un plat ben fàcil de preparar però amb molt bon sabor que t'assagurem serà perfecte per un mitjdia cansat</text>
+    </receta>
+    <receta>
+        <foto src="../images/R7_arroz_con_pollo_y_verdura.jpg"/>
+        <nom>Arròs amb pollastre i verdura</nom>
+        <temps>35 min</temps>
+        <dificultat>Dificultat: Fàcil</dificultat>
+        <text>L'arròs amb pollastre i verdures tradicional és una de les formes més populars de preparar aquest cereal. I també més saludable. És una recepta de cuina molt típica d´Espanya i de tota Amèrica llatina. Compta amb totes les proteïnes del pollastre i les vitamines de la verdura.</text>
+    </receta>
+    <receta>
+        <foto src="../images/R8_arroz_con_remolacha_y_pollo.jpg"/>
+        <nom>Arròs amb pollastre i remolatxa</nom>
+        <temps>40 min</temps>
+        <dificultat>Dificultat: Mitjana</dificultat>
+        <text>De les mil maneres que cal cuinar l'arròs, avui ens posem fil a l'agulla amb una de les que tenen una presentació més sorprenent: arròs cremós de pollastre i remolatxa. L'increïble d'aquesta recepta és, a més del sabor, el color que adquireix gràcies a la remolatxa.</text>
+    </receta>
+    <receta>
+        <foto src="../images/R9_arroz_tres_delicias.jpg"/>
+        <nom>Arròs amb tres delicies</nom>
+        <temps>20 min</temps>
+        <dificultat>Dificultat: Mitjana</dificultat>
+        <text>Recordo que des de ben petit, quan anava a dinar a un dels restaurants xinesos amb els meus oncles, el pollastre a la llimona, el pollastre amb ametlles o el porc agredolç. Si d'aquella cuina oriental per a occidentals n'hi havia un plat que m'agradava per sobre de tots, aquesta era la recepta de l'arròs tres delícies.</text>
+    </receta>
+    <receta>
+        <foto src="../images/R10_arroz_con_pollo_peruano.jpg"/>
+        <nom>Arròs amb pollastre peruà</nom>
+        <temps>1 hora</temps>
+        <dificultat>Dificultat: Dificil</dificultat>
+        <text>Aquest és un dels plats favorits a les taules peruanes, ja sigui amb ànec –tradicional al nord del Perú- o amb pollastre. És deliciós i té moltes variacions. L'arròs pot fer-se granat o com un risotto i, encara que és verd i té força coriandre el seu sabor és força subtil. Poden afegir altres vegetals, si volen.</text>
+    </receta>
+    <receta>
+        <foto src="../images/R11_sopa_de_pollo_con_arroz.jpg"/>
+        <nom>Sopa de pollastre amb arròs</nom>
+        <temps>50 min</temps>
+        <dificultat>Dificultat: Dificil</dificultat>
+        <text>La sopa de pollastre amb arròs és tot un clàssic, un plat complet i perfecte per a aquelles ocasions en què necessitem augmentar la nostra força o lluitar contra el fred de l'hivern, calenta i reconfortant</text>
+    </receta>
+    <receta>
+        <foto src="../images/R12_arroz_con_pollo_al_curry.jpg"/>
+        <nom>Arròs amb pollastre al curry</nom>
+        <temps>30 min</temps>
+        <dificultat>Dificultat: Fàcil</dificultat>
+        <text>Dins la gamma dels arrossos, l'arròs amb pollastre és un plat clàssic. En aquesta oportunitat, presentem la variant amb curri, una barreja d´espècies asiàtiques amb un sabor exòtic i únic. L'arròs amb pollastre al curri és un plat fàcil i ràpid per gaudir-ne en qualsevol moment.</text>
+    </receta>
+    <receta>
+        <foto src="../images/R13_arroz_con_pollo_al_limon.jpg"/>
+        <nom>Arròs amb pollastre a la llimona</nom>
+        <temps>45 min</temps>
+        <dificultat>Dificultat: Fàcil</dificultat>
+        <text>Si busques un plat complet, sa i de sabors mediterranis, no deixis de tastar aquest pollastre a la llimona amb arròs basmati. La combinació de salses i espècies que acompanyen el pollastre es veuen compensades per un arròs de gust suau en una recepta el gust de la qual et sorprendrà.</text>
+    </receta>
+    <receta>
+        <foto src="../images/R14_pollo_tikka_masala_con_arroz.png"/>
+        <nom>Tikka Masala amb arròs</nom>
+        <temps>50 min</temps>
+        <dificultat>Dificultat: Mitjana</dificultat>
+        <text>Vull ensenyar-vos a preparar un deliciós pollastre tikka masala, la recepta de pollastre al curri més popular al món, juntament amb el pollastre tandoori. Amb un marinat previ amb iogurt i espècies i una cocció posterior en llet de coco i una pasta aromàtica.</text>
+    </receta>
+    <receta>
+        <foto src="../images/R15_pollo_relleno_de_arroz.jpg"/>
+        <nom>Pollastre fàrcit d'arròs</nom>
+        <temps>1h 30 min</temps>
+        <dificultat>Dificultat: Difícil</dificultat>
+        <text>Riquíssima recepta de pollastre farcit d'arròs, que sorprendrà especialment pel bon sabor que agafarà l'arròs gràcies als sucs que deixa anar la carn. Riquíssima recepta de pollastre farcit d'arròs, que sorprendrà especialment pel bon sabor que agafarà l'arròs gràcies als sucs que deixa anar la carn.</text>
+    </receta>
+</recetas>
